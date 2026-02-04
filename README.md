@@ -1,16 +1,15 @@
-## Hi there 👋
+## About Me
 
-<!--
-**riceriley59/riceriley59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineer who enjoys working across the stack and contributing back to the OSS community.
 
-Here are some ideas to get you started:
+During my time as NVIDIA and in my own personal time I’ve contributed to, designed, and maintained multiple OSS initiatives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a particular interest in high-performance computing and large-scale distributed systems, especially platforms like Kubernetes (k8s).
+
+## Cool Projects
+
+**Skyhook & Skyhook Packages** - An OSS k8s operator to manage node and OS customizations at runtime without having to reprovision nodes.
+
+**GoAnywhere** - A pluggable tool that generates valid CGO bindings for your Go code. This allows you to use your Go code with python and C.
+
+**Dotfiles Installer** - A declarative CLI tool for installing and managing dotfiles across macOS, Linux, and Windows. Built to simplify cross-platform environment setup and reduce manual configuration.
